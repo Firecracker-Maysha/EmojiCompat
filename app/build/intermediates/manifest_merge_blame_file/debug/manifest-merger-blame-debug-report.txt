@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2017 The Android Open Source Project
+4
+5 Licensed under the Apache License, Version 2.0 (the "License");
+6 you may not use this file except in compliance with the License.
+7 You may obtain a copy of the License at
+8
+9     http://www.apache.org/licenses/LICENSE-2.0
+10
+11 Unless required by applicable law or agreed to in writing, software
+12 distributed under the License is distributed on an "AS IS" BASIS,
+13 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14 See the License for the specific language governing permissions and
+15 limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.emojicompat"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="19"
+23-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="26" />
+24-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+25
+26    <!--
+27         Adding this meta-data will download the font when application is installed from
+28        Google Play Store. This way the font will be downloaded and ready when your app starts
+29        for the first time.
+30    -->
+31    <meta-data
+31-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:25:5-93
+32        android:name="fontProviderRequests"
+32-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:25:16-51
+33        android:value="Noto Color Emoji Compat" />
+33-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:25:52-91
+34
+35    <application
+35-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:27:5-44:19
+36        android:allowBackup="true"
+36-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:28:9-35
+37        android:debuggable="true"
+38        android:icon="@mipmap/ic_launcher"
+38-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:29:9-43
+39        android:label="@string/app_name"
+39-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:30:9-41
+40        android:supportsRtl="true"
+40-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:31:9-35
+41        android:testOnly="true"
+42        android:theme="@style/Theme.EmojiCompat" >
+42-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:32:9-49
+43        <activity
+43-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:35:9-42:20
+44            android:name="com.example.android.emojicompat.MainActivity"
+44-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:36:13-41
+45            android:windowSoftInputMode="stateUnchanged" >
+45-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:37:13-57
+46            <intent-filter>
+46-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:38:13-41:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:39:17-68
+47-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:39:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:40:17-76
+49-->/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:40:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <meta-data
+53-->[com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:23:9-25:38
+54            android:name="android.support.VERSION"
+54-->[com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:24:13-51
+55            android:value="26.0.0" />
+55-->[com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:25:13-35
+56    </application>
+57
+58</manifest>

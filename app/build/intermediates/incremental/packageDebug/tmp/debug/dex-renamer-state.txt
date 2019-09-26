@@ -1,0 +1,4 @@
+#Thu Sep 26 13:50:50 PDT 2019
+base.0=/Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

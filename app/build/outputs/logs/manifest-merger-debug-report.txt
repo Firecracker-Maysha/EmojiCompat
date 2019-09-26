@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+	package
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:20:5-46
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:17:1-46:12
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:18:5-63
+meta-data#fontProviderRequests
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:25:5-93
+	android:value
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:25:52-91
+	android:name
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:25:16-51
+application
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:27:5-44:19
+MERGED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:30:9-41
+	tools:ignore
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:33:9-48
+	android:icon
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:32:9-49
+activity#com.example.android.emojicompat.MainActivity
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:windowSoftInputMode
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:37:13-57
+	android:name
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mashatseveen/AndroidStudioProjects/EmojiCompat/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-emoji-bundled:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/9a10b59f1bcb0edc700454de8538c221/support-emoji-bundled-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-emoji:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/4a5ff5fbe17218bd3599f42dd1e18043/support-emoji-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/b98a2739a4ceb6415c6888ea1948bc43/animated-vector-drawable-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/037be2c52067846b2b14d8047acce8a0/support-vector-drawable-26.0.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/d49667a0c901a9f575f8b8ecd1924b2d/support-v4-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/76cf13102ede2adfdf114143e89d7868/support-media-compat-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/744fcf3495ffbde9cd6745cd5c3cec35/support-fragment-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:support-emoji-appcompat:26.0.0] /Users/mashatseveen/.gradle/caches/transforms-2/files-2.1/fb211f1a0c533fedd264a06abb40bb2e/support-emoji-appcompat-26.0.0/AndroidManifest.xml:24:13-51
